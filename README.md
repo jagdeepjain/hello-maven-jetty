@@ -8,7 +8,7 @@ Starting Jetty
 ```
 mvn jetty:run
 ```
-launch http://localhost:8080/helloworld
+launch http://localhost:9000/helloworld
 
 war packaging
 =============
