@@ -1,4 +1,4 @@
-package org.hello.maven.jetty.example;
+package org.jagdeep.example.app;
 
 import java.io.IOException;
 import javax.servlet.ServletException;

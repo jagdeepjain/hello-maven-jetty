@@ -4,7 +4,7 @@
 	version="2.5">
 	<servlet>
 		<servlet-name>HelloWorld</servlet-name>
-		<servlet-class>org.hello.maven.jetty.example.HelloWorldServlet</servlet-class>
+		<servlet-class>org.jagdeep.example.app.HelloWorldServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>HelloWorld</servlet-name>

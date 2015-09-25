@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<artifactId>hello-maven-jetty</artifactId>
-	<groupId>org.hello.maven.jetty</groupId>
+	<groupId>org.jagdeep.example</groupId>
 	<version>1.0</version>
 	<packaging>war</packaging>
-	<name>Hello World Example</name>
+	<name>Hello World Example Using Maven Jetty</name>
 	<description>Hello World Example using maven jetty</description>
 
 	<properties>
